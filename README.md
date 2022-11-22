@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🔭 I’m currently working on CFDI 4.0
+### SAP abap developer, xvar@abat.de
+### ![image](https://user-images.githubusercontent.com/47123934/203358909-d5edf59e-fec9-4df2-a148-20ae634d8eb2.png)
+
 
 <!--
 **ramosval/ramosval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### Hi there 👋
 -->
